@@ -1,0 +1,59 @@
+2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:14.221+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:14.222+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:14.383+02:00  INFO 24952 --- [main] com.example.Main                         : Started Main in 1.458 seconds (process running for 1.829)
+2025-04-17T18:43:14.391+02:00  INFO 24952 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:43:39.416+02:00  INFO 32436 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 32436 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:39.420+02:00  INFO 32436 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:40.133+02:00  INFO 32436 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:40.134+02:00  INFO 32436 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:14.221+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:14.222+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:14.383+02:00  INFO 24952 --- [main] com.example.Main                         : Started Main in 1.458 seconds (process running for 1.829)
+2025-04-17T18:43:14.391+02:00  INFO 24952 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:43:39.416+02:00  INFO 32436 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 32436 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:39.420+02:00  INFO 32436 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:40.302+02:00  INFO 32436 --- [main] com.example.Main                         : Started Main in 1.461 seconds (process running for 1.852)
+2025-04-17T18:43:40.309+02:00  INFO 32436 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:45:55.096+02:00  INFO 17576 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 17576 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:45:55.099+02:00 DEBUG 17576 --- [main] com.example.Main                         : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T18:45:55.100+02:00  INFO 17576 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:45:55.854+02:00  INFO 17576 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:45:55.854+02:00  INFO 17576 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:14.221+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:14.222+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:14.383+02:00  INFO 24952 --- [main] com.example.Main                         : Started Main in 1.458 seconds (process running for 1.829)
+2025-04-17T18:43:14.391+02:00  INFO 24952 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:43:39.416+02:00  INFO 32436 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 32436 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:39.420+02:00  INFO 32436 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:40.133+02:00  INFO 32436 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:40.134+02:00  INFO 32436 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T18:43:14.221+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : Log file found. Content: 
+2025-04-17T18:43:14.222+02:00  INFO 24952 --- [main] com.example.FIleLogger                   : 2025-04-17T18:43:13.498+02:00  INFO 24952 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 24952 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:13.502+02:00  INFO 24952 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:14.383+02:00  INFO 24952 --- [main] com.example.Main                         : Started Main in 1.458 seconds (process running for 1.829)
+2025-04-17T18:43:14.391+02:00  INFO 24952 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:43:39.416+02:00  INFO 32436 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 32436 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:43:39.420+02:00  INFO 32436 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:43:40.302+02:00  INFO 32436 --- [main] com.example.Main                         : Started Main in 1.461 seconds (process running for 1.852)
+2025-04-17T18:43:40.309+02:00  INFO 32436 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:45:55.096+02:00  INFO 17576 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 17576 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture07_SpringBeans\Exercise001_LoggerTest\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T18:45:55.099+02:00 DEBUG 17576 --- [main] com.example.Main                         : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T18:45:55.100+02:00  INFO 17576 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-04-17T18:45:56.197+02:00  INFO 17576 --- [main] com.example.Main                         : Started Main in 1.683 seconds (process running for 2.064)
+2025-04-17T18:45:56.207+02:00  INFO 17576 --- [main] com.example.ServiceBean1                 : ServiceBean1 initialized. 
+2025-04-17T18:45:56.209+02:00 DEBUG 17576 --- [main] com.example.ServiceBean2                 : ServiceBean2 initialized. 

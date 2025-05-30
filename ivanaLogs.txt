@@ -1,0 +1,249 @@
+2025-04-17T14:17:15.710+02:00  INFO 26620 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 26620 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T14:17:15.722+02:00  INFO 26620 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T14:17:16.555+02:00  INFO 26620 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T14:17:16.555+02:00 DEBUG 26620 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T14:17:16.919+02:00  INFO 26620 --- [main] com.example.Class7Application            : Started Class7Application in 1.9 seconds (process running for 2.323)
+2025-04-17T14:17:16.935+02:00  INFO 26620 --- [main] com.example.FirstBean                    : log something
+2025-04-17T15:51:27.806+02:00  INFO 28280 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 28280 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T15:51:27.810+02:00  INFO 28280 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T15:51:28.633+02:00  INFO 28280 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T15:51:28.633+02:00 DEBUG 28280 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T15:51:28.964+02:00  INFO 28280 --- [main] com.example.Class7Application            : Started Class7Application in 1.8 seconds (process running for 2.176)
+2025-04-17T15:51:28.975+02:00  INFO 28280 --- [main] com.example.FirstBean                    : log something
+2025-04-17T15:58:43.158+02:00  INFO 33468 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 33468 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T15:58:43.162+02:00  INFO 33468 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T15:58:43.960+02:00  INFO 33468 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T15:58:43.961+02:00 DEBUG 33468 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T15:58:44.276+02:00  INFO 33468 --- [main] com.example.Class7Application            : Started Class7Application in 1.715 seconds (process running for 2.098)
+2025-04-17T15:58:44.286+02:00  INFO 33468 --- [main] com.example.FirstBean                    : log something
+2025-04-17T15:59:59.686+02:00  INFO 24204 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 24204 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T15:59:59.690+02:00  INFO 24204 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:00:00.480+02:00  INFO 24204 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:00:00.481+02:00 DEBUG 24204 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:00:00.798+02:00  INFO 24204 --- [main] com.example.Class7Application            : Started Class7Application in 1.727 seconds (process running for 2.116)
+2025-04-17T16:00:00.807+02:00  INFO 24204 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:00:31.663+02:00  INFO 17852 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 17852 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:00:31.667+02:00  INFO 17852 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:00:32.462+02:00  INFO 17852 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:00:32.463+02:00 DEBUG 17852 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:00:32.788+02:00  INFO 17852 --- [main] com.example.Class7Application            : Started Class7Application in 1.741 seconds (process running for 2.115)
+2025-04-17T16:00:32.796+02:00  INFO 17852 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:10:17.402+02:00  INFO 33508 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 33508 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:10:17.406+02:00  INFO 33508 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:10:18.216+02:00  INFO 33508 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:10:18.217+02:00 DEBUG 33508 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:10:18.531+02:00  INFO 33508 --- [main] com.example.Class7Application            : Started Class7Application in 1.703 seconds (process running for 2.141)
+2025-04-17T16:10:18.541+02:00  INFO 33508 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:11:14.977+02:00  INFO 22152 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 22152 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:11:14.981+02:00  INFO 22152 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:11:15.793+02:00  INFO 22152 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:11:15.795+02:00 DEBUG 22152 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:11:16.081+02:00  INFO 22152 --- [main] com.example.Class7Application            : Started Class7Application in 1.716 seconds (process running for 2.119)
+2025-04-17T16:11:16.091+02:00  INFO 22152 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:11:16.189+02:00  INFO 22152 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-17T16:11:16.217+02:00 ERROR 22152 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+jakarta.validation.ConstraintViolationException: concatStrings.second: size must be between 0 and 3
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:170) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717) ~[spring-aop-6.1.5.jar:6.1.5]
+	at com.example.ValidationBean$$SpringCGLIB$$0.concatStrings(<generated>) ~[classes/:na]
+	at com.example.FirstBean.afterStart(FirstBean.java:120) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:365) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:237) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:168) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:185) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:178) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:156) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:451) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:384) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.context.event.EventPublishingRunListener.started(EventPublishingRunListener.java:103) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$started$5(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.started(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:340) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.4.jar:3.2.4]
+	at com.example.Class7Application.main(Class7Application.java:10) ~[classes/:na]
+
+2025-04-17T16:12:22.111+02:00  INFO 11568 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 11568 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:12:22.115+02:00  INFO 11568 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:12:22.911+02:00  INFO 11568 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:12:22.911+02:00 DEBUG 11568 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:12:23.240+02:00  INFO 11568 --- [main] com.example.Class7Application            : Started Class7Application in 1.711 seconds (process running for 2.106)
+2025-04-17T16:12:23.249+02:00  INFO 11568 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:12:23.346+02:00  INFO 11568 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-17T16:12:23.375+02:00 ERROR 11568 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+jakarta.validation.ConstraintViolationException: concatStrings.second: size must be between 0 and 3
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:170) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717) ~[spring-aop-6.1.5.jar:6.1.5]
+	at com.example.ValidationBean$$SpringCGLIB$$0.concatStrings(<generated>) ~[classes/:na]
+	at com.example.FirstBean.afterStart(FirstBean.java:120) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:365) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:237) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:168) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:185) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:178) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:156) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:451) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:384) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.context.event.EventPublishingRunListener.started(EventPublishingRunListener.java:103) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$started$5(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.started(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:340) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.4.jar:3.2.4]
+	at com.example.Class7Application.main(Class7Application.java:10) ~[classes/:na]
+
+2025-04-17T16:16:18.768+02:00  INFO 27548 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 27548 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:16:18.771+02:00 DEBUG 27548 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:16:18.773+02:00  INFO 27548 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:16:19.577+02:00  INFO 27548 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:16:19.577+02:00 DEBUG 27548 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:16:19.891+02:00  INFO 27548 --- [main] com.example.Class7Application            : Started Class7Application in 1.733 seconds (process running for 2.117)
+2025-04-17T16:16:19.901+02:00  INFO 27548 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:16:20.048+02:00  INFO 27548 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-17T16:16:20.075+02:00 ERROR 27548 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+jakarta.validation.ConstraintViolationException: concatStrings.second: size must be between 0 and 3
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:170) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717) ~[spring-aop-6.1.5.jar:6.1.5]
+	at com.example.ValidationBean$$SpringCGLIB$$0.concatStrings(<generated>) ~[classes/:na]
+	at com.example.FirstBean.afterStart(FirstBean.java:120) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:365) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:237) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:168) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:185) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:178) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:156) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:451) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:384) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.context.event.EventPublishingRunListener.started(EventPublishingRunListener.java:103) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$started$5(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.started(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:340) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.4.jar:3.2.4]
+	at com.example.Class7Application.main(Class7Application.java:10) ~[classes/:na]
+
+2025-04-17T16:17:06.591+02:00  INFO 30004 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 30004 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:17:06.594+02:00 DEBUG 30004 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:17:06.596+02:00  INFO 30004 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:17:07.406+02:00  INFO 30004 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:17:07.407+02:00 DEBUG 30004 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:17:07.732+02:00  INFO 30004 --- [main] com.example.Class7Application            : Started Class7Application in 1.774 seconds (process running for 2.175)
+2025-04-17T16:17:07.742+02:00  INFO 30004 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:17:53.828+02:00  INFO 13264 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 13264 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:17:53.831+02:00 DEBUG 13264 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:17:53.832+02:00  INFO 13264 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:17:54.615+02:00  INFO 13264 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:17:54.615+02:00 DEBUG 13264 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:17:54.956+02:00  INFO 13264 --- [main] com.example.Class7Application            : Started Class7Application in 1.723 seconds (process running for 2.093)
+2025-04-17T16:17:54.965+02:00  INFO 13264 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:19:28.632+02:00  INFO 17456 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 17456 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:19:28.635+02:00 DEBUG 17456 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:19:28.636+02:00  INFO 17456 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:19:29.442+02:00  INFO 17456 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:19:29.443+02:00 DEBUG 17456 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:19:29.759+02:00  INFO 17456 --- [main] com.example.Class7Application            : Started Class7Application in 1.748 seconds (process running for 2.12)
+2025-04-17T16:19:29.770+02:00  INFO 17456 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:20:09.872+02:00  INFO 4716 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 4716 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:20:09.875+02:00 DEBUG 4716 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:20:09.877+02:00  INFO 4716 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:20:10.644+02:00  INFO 4716 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:20:10.645+02:00 DEBUG 4716 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:20:10.967+02:00  INFO 4716 --- [main] com.example.Class7Application            : Started Class7Application in 1.695 seconds (process running for 2.075)
+2025-04-17T16:20:10.977+02:00  INFO 4716 --- [main] com.example.FirstBean                    : log something
+2025-04-17T16:20:25.130+02:00  INFO 29748 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 29748 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:20:25.132+02:00 DEBUG 29748 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:20:25.133+02:00  INFO 29748 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:20:26.026+02:00  INFO 29748 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:20:26.026+02:00 DEBUG 29748 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:20:33.618+02:00  INFO 15560 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 15560 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T16:20:33.621+02:00 DEBUG 15560 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T16:20:33.622+02:00  INFO 15560 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T16:20:34.395+02:00  INFO 15560 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T16:20:34.395+02:00 DEBUG 15560 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T16:20:34.730+02:00  INFO 15560 --- [main] com.example.Class7Application            : Started Class7Application in 1.709 seconds (process running for 2.105)
+2025-04-17T16:20:34.741+02:00  INFO 15560 --- [main] com.example.FirstBean                    : log something
+2025-04-17T17:49:07.992+02:00  INFO 26860 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 26860 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T17:49:07.995+02:00 DEBUG 26860 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T17:49:07.997+02:00  INFO 26860 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T17:49:08.778+02:00  INFO 26860 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T17:49:08.778+02:00 DEBUG 26860 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T17:49:09.115+02:00  INFO 26860 --- [main] com.example.Class7Application            : Started Class7Application in 1.719 seconds (process running for 2.108)
+2025-04-17T17:49:09.125+02:00  INFO 26860 --- [main] com.example.FirstBean                    : log something
+2025-04-17T17:49:09.268+02:00  INFO 26860 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-17T17:49:09.295+02:00 ERROR 26860 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+jakarta.validation.ConstraintViolationException: concatStrings.second: size must be between 0 and 3
+	at org.springframework.validation.beanvalidation.MethodValidationInterceptor.invoke(MethodValidationInterceptor.java:170) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.5.jar:6.1.5]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717) ~[spring-aop-6.1.5.jar:6.1.5]
+	at com.example.ValidationBean$$SpringCGLIB$$0.concatStrings(<generated>) ~[classes/:na]
+	at com.example.FirstBean.afterStart(FirstBean.java:120) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.doInvoke(ApplicationListenerMethodAdapter.java:365) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.processEvent(ApplicationListenerMethodAdapter.java:237) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.ApplicationListenerMethodAdapter.onApplicationEvent(ApplicationListenerMethodAdapter.java:168) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:185) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:178) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:156) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:451) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:384) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.context.event.EventPublishingRunListener.started(EventPublishingRunListener.java:103) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.lambda$started$5(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:118) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:112) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplicationRunListeners.started(SpringApplicationRunListeners.java:76) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:340) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.4.jar:3.2.4]
+	at com.example.Class7Application.main(Class7Application.java:10) ~[classes/:na]
+
+2025-04-17T17:50:31.251+02:00  INFO 32028 --- [main] com.example.Class7Application            : Starting Class7Application using Java 17.0.12 with PID 32028 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise1_Logger_Demo1\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-04-17T17:50:31.254+02:00 DEBUG 32028 --- [main] com.example.Class7Application            : Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-17T17:50:31.256+02:00  INFO 32028 --- [main] com.example.Class7Application            : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T17:50:32.054+02:00  INFO 32028 --- [main] com.example.logs.DebugLogs               : This is info log
+2025-04-17T17:50:32.055+02:00 DEBUG 32028 --- [main] com.example.logs.DebugLogs               : This is debug log
+2025-04-17T17:50:32.422+02:00  INFO 32028 --- [main] com.example.Class7Application            : Started Class7Application in 1.771 seconds (process running for 2.14)
+2025-04-17T17:50:32.433+02:00  INFO 32028 --- [main] com.example.FirstBean                    : log something

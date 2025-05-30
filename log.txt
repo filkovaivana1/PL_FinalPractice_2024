@@ -1,0 +1,280 @@
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:06:11 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:06:12 [INFO] Started Main in 1.587 seconds (process running for 2.047)
+2025-03-22 04:06:12 [INFO] LibraryService2 initialized
+2025-03-22 04:07:19 [INFO] Starting Main using Java 17.0.12 with PID 14616 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:07:19 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:07:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:06:11 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:06:12 [INFO] Started Main in 1.587 seconds (process running for 2.047)
+2025-03-22 04:06:12 [INFO] LibraryService2 initialized
+2025-03-22 04:07:19 [INFO] Starting Main using Java 17.0.12 with PID 14616 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:07:19 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:07:20 [INFO] Started Main in 1.485 seconds (process running for 1.875)
+2025-03-22 04:07:20 [INFO] LibraryService2 initialized
+2025-03-22T04:14:17.796+01:00  INFO 12540 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 12540 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22T04:14:17.799+01:00  INFO 12540 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+2025-03-22T04:14:18.486+01:00  INFO 12540 --- [main] com.example.LogFileChecker               : Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:06:11 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:06:12 [INFO] Started Main in 1.587 seconds (process running for 2.047)
+2025-03-22 04:06:12 [INFO] LibraryService2 initialized
+2025-03-22 04:07:19 [INFO] Starting Main using Java 17.0.12 with PID 14616 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:07:19 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:07:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:06:11 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:04:43 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-03-22 04:02:20 [INFO] Log file found. Content:
+jkjhkfsdjkmsg1
+2025-03-22 04:02:20 [INFO] Starting Main using Java 17.0.12 with PID 31636 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:02:20 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:02:21 [INFO] Started Main in 1.559 seconds (process running for 2.169)
+2025-03-22 04:02:21 [INFO] LibraryService2 initialized
+2025-03-22 04:04:43 [INFO] Starting Main using Java 17.0.12 with PID 22736 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:04:43 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:04:43 [INFO] Started Main in 1.567 seconds (process running for 1.961)
+2025-03-22 04:04:43 [INFO] LibraryService2 initialized
+2025-03-22 04:06:11 [INFO] Starting Main using Java 17.0.12 with PID 25156 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:06:11 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:06:12 [INFO] Started Main in 1.587 seconds (process running for 2.047)
+2025-03-22 04:06:12 [INFO] LibraryService2 initialized
+2025-03-22 04:07:19 [INFO] Starting Main using Java 17.0.12 with PID 14616 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22 04:07:19 [INFO] No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22 04:07:20 [INFO] Started Main in 1.485 seconds (process running for 1.875)
+2025-03-22 04:07:20 [INFO] LibraryService2 initialized
+2025-03-22T04:14:17.796+01:00  INFO 12540 --- [main] com.example.Main                         : Starting Main using Java 17.0.12 with PID 12540 (C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001\Java_2\Lecture7_SpringBeans\Exercise2_Logger\target\classes started by ivana.filkova in C:\Users\ivana.filkova.KIMTECMK\IdeaProjects\Ivana_Filkova_0001)
+2025-03-22T04:14:17.799+01:00  INFO 12540 --- [main] com.example.Main                         : No active profile set, falling back to 1 default profile: "default"
+
+2025-03-22T04:14:18.672+01:00  INFO 12540 --- [main] com.example.Main                         : Started Main in 1.452 seconds (process running for 1.862)
+2025-03-22T04:14:18.682+01:00  INFO 12540 --- [main] com.example.LibraryService2              : LibraryService2 initialized
